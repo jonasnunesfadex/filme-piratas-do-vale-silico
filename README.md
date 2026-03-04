@@ -1,7 +1,3 @@
-Ótima escolha de filme 👍
-**Piratas do Vale do Silício** (Piratas do Vale do Silício) permite discutir muito bem a evolução dos sistemas operacionais e a disputa entre empresas.
-
-Aqui estão **3 questões abertas**, pensadas para dificultar respostas prontas da internet e estimular análise crítica:
 
 ---
 
@@ -38,5 +34,3 @@ A partir das situações apresentadas no filme:
 * Relacione essa importância com a disputa entre Apple e Microsoft mostrada no filme.
 
 ---
-
-Se quiser, posso criar uma **versão avaliativa com critérios de correção (rubrica)** para facilitar a atribuição de notas.
